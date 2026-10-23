@@ -1,0 +1,4 @@
+# Pinned versions (tested together; Python >= 3.11 required by pandas 3)
+streamlit==1.66.1
+pandas==3.0.2
+plotly==7.1.0

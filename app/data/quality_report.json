@@ -1,0 +1,18 @@
+{
+  "raw_rows": 71326,
+  "raw_columns": 53,
+  "raw_duplicate_rows": 0,
+  "raw_duplicate_ids": 0,
+  "raw_missing_by_column": {
+    "APP_Libelle_activite_etablissement": 1,
+    "Synthese_eval_sanit": 1,
+    "reg_name": 1776,
+    "dep_name": 1776,
+    "com_name": 1776,
+    "geores": 1739
+  },
+  "clean_rows": 71325,
+  "clean_columns": 15,
+  "removed_rows": 1,
+  "removed_reason": "Missing sanitary evaluation (Synthese_eval_sanit)"
+}
